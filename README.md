@@ -5,7 +5,6 @@
 Please provide the following information:
     
     python 3.10.12
-    
     pytube 15.0.0
      
 ## Setting up system:
@@ -13,8 +12,8 @@ Please provide the following information:
     Install pytube: pip3 install pytube
 
 ## To run the application
-    `python main.py <'link to the yoube video that you want to download'>`
+    python main.py <'link to the yoube video that you want to download'>
 
-    or 
+or 
     
-    `python3 main.py <link> `
+    python3 main.py <link>
